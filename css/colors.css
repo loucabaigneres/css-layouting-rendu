@@ -1,0 +1,19 @@
+:root {
+    /* Background color */
+    --background: rgb(27, 35, 52);
+
+    /* Couleur des textes */
+    --text-white: rgba(255, 255, 255, 0.9);
+
+    /* Couleur des textes handle */
+    --text-handle: rgba(255, 255, 255, 0.7);
+
+    /* Couleur des textes invert */
+    --text-invert: rgba(0, 0, 0, 0.9);
+
+    /* Couleur des posts */
+    --post: rgba(0, 0, 0, 0.5);
+
+    /* Couleur de l'aside */
+    --aside: rgba(21, 20, 47, 0.75);
+}
