@@ -8,7 +8,12 @@
 
 -   `css/` : Contains CSS files
 -   `js/` : Contains JS files
--   `fonts/` : Contains fonts files
 -   `assets/` : Contains media files
 -   `index.html` : Main page
 -   `README.md` : The README you're reading at the moment
+
+## 🎬 Flexbox & Grid presentation
+
+-   [Flexbox](https://youtu.be/EzusLunNcqM) explanation video.
+
+-   [Grid](https://youtu.be/7jyCkzeeL1I) Explanation video.
